@@ -1,1 +1,1 @@
-# SQL-in-Codewars
+# SQL-in-Codewars-Challenge
